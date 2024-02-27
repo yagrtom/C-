@@ -1,0 +1,14 @@
+D:\x86\csharp\helloworld\helloworld\bin\Debug\helloworld.exe.config
+D:\x86\csharp\helloworld\helloworld\bin\Debug\helloworld.exe
+D:\x86\csharp\helloworld\helloworld\bin\Debug\helloworld.pdb
+D:\x86\csharp\helloworld\helloworld\obj\Debug\helloworld.csproj.AssemblyReference.cache
+D:\x86\csharp\helloworld\helloworld\obj\Debug\helloworld.csproj.CoreCompileInputs.cache
+D:\x86\csharp\helloworld\helloworld\obj\Debug\helloworld.exe
+D:\x86\csharp\helloworld\helloworld\obj\Debug\helloworld.pdb
+D:\x86\csharp\sum\helloworld\bin\Debug\helloworld.exe.config
+D:\x86\csharp\sum\helloworld\bin\Debug\helloworld.exe
+D:\x86\csharp\sum\helloworld\bin\Debug\helloworld.pdb
+D:\x86\csharp\sum\helloworld\obj\Debug\helloworld.csproj.AssemblyReference.cache
+D:\x86\csharp\sum\helloworld\obj\Debug\helloworld.csproj.CoreCompileInputs.cache
+D:\x86\csharp\sum\helloworld\obj\Debug\helloworld.exe
+D:\x86\csharp\sum\helloworld\obj\Debug\helloworld.pdb
