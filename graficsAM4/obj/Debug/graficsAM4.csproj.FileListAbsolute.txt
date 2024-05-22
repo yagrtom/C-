@@ -1,0 +1,10 @@
+D:\x86\csharp\GrafTest\demo1\graficsAM4\bin\Debug\graficsAM4.exe.config
+D:\x86\csharp\GrafTest\demo1\graficsAM4\bin\Debug\graficsAM4.exe
+D:\x86\csharp\GrafTest\demo1\graficsAM4\bin\Debug\graficsAM4.pdb
+D:\x86\csharp\GrafTest\demo1\graficsAM4\obj\Debug\graficsAM4.csproj.AssemblyReference.cache
+D:\x86\csharp\GrafTest\demo1\graficsAM4\obj\Debug\graficsAM4.Form1.resources
+D:\x86\csharp\GrafTest\demo1\graficsAM4\obj\Debug\graficsAM4.Properties.Resources.resources
+D:\x86\csharp\GrafTest\demo1\graficsAM4\obj\Debug\graficsAM4.csproj.GenerateResource.cache
+D:\x86\csharp\GrafTest\demo1\graficsAM4\obj\Debug\graficsAM4.csproj.CoreCompileInputs.cache
+D:\x86\csharp\GrafTest\demo1\graficsAM4\obj\Debug\graficsAM4.exe
+D:\x86\csharp\GrafTest\demo1\graficsAM4\obj\Debug\graficsAM4.pdb
